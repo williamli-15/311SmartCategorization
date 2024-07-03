@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/311SmartCategorization/static/css/main.8e6300ec.chunk.css",
-    "main.js": "/311SmartCategorization/static/js/main.52574ec1.chunk.js",
-    "main.js.map": "/311SmartCategorization/static/js/main.52574ec1.chunk.js.map",
-    "runtime~main.js": "/311SmartCategorization/static/js/runtime~main.31a71a64.js",
-    "runtime~main.js.map": "/311SmartCategorization/static/js/runtime~main.31a71a64.js.map",
-    "static/css/2.6efdf584.chunk.css": "/311SmartCategorization/static/css/2.6efdf584.chunk.css",
-    "static/js/2.ed97b9b2.chunk.js": "/311SmartCategorization/static/js/2.ed97b9b2.chunk.js",
-    "static/js/2.ed97b9b2.chunk.js.map": "/311SmartCategorization/static/js/2.ed97b9b2.chunk.js.map",
+    "main.css": "/311SmartCategorization/static/css/main.a91fa487.css",
+    "main.js": "/311SmartCategorization/static/js/main.e0ea94b2.js",
     "index.html": "/311SmartCategorization/index.html",
-    "precache-manifest.7d8fb6f35494cc19ad9695916483616d.js": "/311SmartCategorization/precache-manifest.7d8fb6f35494cc19ad9695916483616d.js",
-    "service-worker.js": "/311SmartCategorization/service-worker.js",
-    "static/css/2.6efdf584.chunk.css.map": "/311SmartCategorization/static/css/2.6efdf584.chunk.css.map",
-    "static/css/main.8e6300ec.chunk.css.map": "/311SmartCategorization/static/css/main.8e6300ec.chunk.css.map"
-  }
+    "main.a91fa487.css.map": "/311SmartCategorization/static/css/main.a91fa487.css.map",
+    "main.e0ea94b2.js.map": "/311SmartCategorization/static/js/main.e0ea94b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a91fa487.css",
+    "static/js/main.e0ea94b2.js"
+  ]
 }
